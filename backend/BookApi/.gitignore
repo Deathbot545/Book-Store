@@ -1,0 +1,35 @@
+## .NET / ASP.NET Core
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.rsuser
+
+# Rider
+.idea/
+
+# NuGet packages (restored automatically)
+*.nupkg
+*.snupkg
+[Pp]ackages/
+!packages/repositories.config
+.nuget/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+**/publish/
+**/PublishProfiles/
+
+# Logs
+*.log
